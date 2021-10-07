@@ -11,5 +11,19 @@ Datasets used:
           5) teams.csv : all teams of NBA
   2. Budget & Salary information collected from https://hoopshype.com/salaries/
       - 2 files created :
-          1) NBA_team__paytoll.xlsx : NBA team payrolls 2010 - 2020 (per team)
-          2) NBA_player_salary.xlsx : NBA player salries 2010 - 2020 (individual players)
+          1) NBA_team__payroll.xlsx : NBA team payrolls 2010 - 2020 (per team)
+             - 1 xlsx file with 11 tabs (1 per year)
+          3) NBA_player_salary.xlsx : NBA player salries 2010 - 2020 (individual players)
+             - 1 xlsx files with 11 tabs (1 per year)
+
+ACTIONS:
+1. Clean NBA_team_payroll.xlsx (TO DO)
+    - Merge into 1 file
+    - Add Team_ID
+    - Add Team_Abbreviation
+    - Export to "team_payroll_2010-2020.xlsx"
+2. Clean NBA_player_salary.xlsx (TO DO)
+    - Merge into 1 file
+    - Add Player_ID
+    - Add Team_Abbreviation
+    - Export to "player_salaris_2010-2020.xlsx"
