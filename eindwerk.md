@@ -1,4 +1,4 @@
-# Details betreffende eindwerk opdracht Syntra Data Alalist opleiding
+# Details betreffende eindwerk opdracht Syntra Data Analist opleiding
 
 
 Datasets used:
