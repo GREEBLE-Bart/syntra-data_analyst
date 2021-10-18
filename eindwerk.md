@@ -34,14 +34,3 @@ Questions to be analyzed :
     - %FT vs total FT made
     - overall (FG/3p/FT)
     
-ACTIONS:
-1. Clean NBA_team_payroll.xlsx (TO DO)
-    - Merge into 1 file
-    - Add Team_ID
-    - Add Team_Abbreviation
-    - Export to "team_payroll_2010-2020.xlsx"
-2. Clean NBA_player_salary.xlsx (TO DO)
-    - Merge into 1 file
-    - Add Player_ID
-    - Add Team_Abbreviation
-    - Export to "player_salaris_2010-2020.xlsx"
